@@ -3,6 +3,7 @@ from random import randint, choice
 
 from source.algorithm.searching.jump_searching import jump_searching
 
+print("test")
 print(" This unit test is disabled")
 
 '''class TestJumbSearch(unittest.TestCase):
