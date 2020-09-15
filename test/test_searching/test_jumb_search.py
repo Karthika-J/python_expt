@@ -1,7 +1,7 @@
-'import unittest
-'from random import randint, choice
+import unittest
+from random import randint, choice
 
-'from source.algorithm.searching.jump_searching import jump_searching
+from source.algorithm.searching.jump_searching import jump_searching
 
 '''class TestJumbSearch(unittest.TestCase):
 
