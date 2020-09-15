@@ -1,9 +1,9 @@
-import unittest
-from random import randint, choice
+'import unittest
+'from random import randint, choice
 
-from source.algorithm.searching.jump_searching import jump_searching
+'from source.algorithm.searching.jump_searching import jump_searching
 
-class TestJumbSearch(unittest.TestCase):
+'''class TestJumbSearch(unittest.TestCase):
 
     def test_case_1(self):
         input_list = [randint(0,50) for i in range(20)]
@@ -22,4 +22,4 @@ class TestJumbSearch(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main()'''
